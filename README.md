@@ -3,6 +3,6 @@ Repositório dedicado a mostrar algumas análises realizadas durante meus estudo
 
 | Análise | Descrição |
 | -------- | -------- |
-| Acidentes e Radares | Análise exploratória de acidentes nas rodovias do Brasil e influência dos radares |
+| Radares e acidentes | Análise de acidentes nas rodovias do Brasil e influência dos radares |
 | Olist | *Em andamento* |
 
