@@ -1,4 +1,6 @@
+# Extensões que serão ignoradas
 
 *.zip
 *.csv
 *.png
+*.ipynb_checkpoints
