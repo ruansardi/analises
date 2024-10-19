@@ -1,4 +1,4 @@
-# Extensões que serão ignoradas
+# Extensões e diretórios que serão ignorados
 
 *.zip
 *.csv
