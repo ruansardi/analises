@@ -3,4 +3,5 @@
 *.zip
 *.csv
 *.png
+*.pgerd
 .ipynb_checkpoints
