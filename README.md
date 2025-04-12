@@ -1,5 +1,5 @@
 # analises
-Repositório dedicado a mostrar algumas análises de dados realizadas.
+Repositório dedicado a mostrar análises de dados para resolver problemas de negócios.
 
 | Análise | Descrição |
 | -------- | -------- |
