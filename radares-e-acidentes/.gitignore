@@ -1,0 +1,10 @@
+# Files
+*.csv
+*.xlsx
+
+# Jupyter checkpoints
+*.ipynb_checkpoints
+
+# Environments
+.env
+.venv
